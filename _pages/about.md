@@ -1,15 +1,15 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: andres_ibanez_nunez_pic.png
+  image: andres_ibanez_nunez_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <a href="mailto:ibaneznunez@math.ox.ac.uk">ibaneznunez@math.ox.ac.uk</a> </p>
+    <p> <a href="mailto:ibaneznunez@maths.ox.ac.uk">ibaneznunez@maths.ox.ac.uk</a> </p>
     <p>Office N3.11</p>
     <p>Mathematical Institute</p>
     <p>University of Oxford</p>
@@ -27,6 +27,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-I am a PhD candidate at the University of Oxford, working in Algebraic Geometry.
+I am a PhD candidate at the University of Oxford, working in Algebraic Geometry and Moduli Theory under the supervision of [Frances Kirwan](https://www.maths.ox.ac.uk/people/frances.kirwan) and [Fabian Haiden](https://semistability.wordpress.com/).
+
+My research focuses on foundational aspects of algebraic stacks and applications to flows, cohomology and enumerative geometry.
+
+My CV is available [here](https://people.maths.ox.ac.uk/ibaneznunez/documents/CV_andres_ibanez_nunez.pdf).
 
 

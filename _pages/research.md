@@ -8,12 +8,10 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-Create list using markdown
+0. ***Relative étale slices and cohomology of moduli spaces*** (joint with Mark Andrea de Cataldo and Andres Fernandez Herrero).
+Submitted. ([arXiv](https://arxiv.org/abs/2307.00350))
 
+0. **Appendix to *Stability conditions in Geometric Invariant Theory***, by Ruadhaí Dervan. Preprint.
+([arXiv](https://arxiv.org/abs/2207.04766))
 
-
-<!-- <div class="publications">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div> -->
+0. ***Refined Harder-Narasimhan filtrations in moduli theory***. Preprint. ([arXiv](https://arxiv.org/abs/2311.18050))
